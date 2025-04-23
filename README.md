@@ -17,7 +17,7 @@ A full-stack Todo web application built with **Next.js**, **Prisma**, and **Mong
 - **Backend**: API routes in Next.js
 - **Database**: [MongoDB](https://www.mongodb.com/)
 - **ORM**: [Prisma](https://www.prisma.io/)
-- **Styling**: (e.g., Tailwind CSS / CSS Modules / any library you used)
+- **Styling**: (e.g., Tailwind CSS / CSS Modules)
 
 ## 📦 Installation
 
