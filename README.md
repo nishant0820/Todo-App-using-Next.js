@@ -32,16 +32,16 @@ A full-stack Todo web application built with **Next.js**, **Prisma**, and **Mong
 ```
 3. **Configure Environment Variables**
 ```bash
-DATABASE_URL="your-mongodb-connection-url"
+   DATABASE_URL="your-mongodb-connection-url"
 ```
 4. **Set up Prisma**
 ```bash
-npx prisma generate
-npx prisma db push
+   npx prisma generate
+   npx prisma db push
 ```
 5. **Run the development server**
 ```bash
-npm run dev
+   npm run dev
 ```
 
 ---
