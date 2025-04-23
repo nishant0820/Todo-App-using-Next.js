@@ -23,7 +23,7 @@ A full-stack Todo web application built with **Next.js**, **Prisma**, and **Mong
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/nishant0820/Todo-App-using-Next.js.git
    cd todo-app
 ```
 2. **Install Dependencies**
