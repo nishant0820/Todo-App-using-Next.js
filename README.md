@@ -49,6 +49,3 @@ A full-stack Todo web application built with **Next.js**, **Prisma**, and **Mong
 ## Author
 Nishant Gupta
 
----
-
-Let me know if you want to customize this with your actual repo link, author info, deployed URL, or a screenshot!
